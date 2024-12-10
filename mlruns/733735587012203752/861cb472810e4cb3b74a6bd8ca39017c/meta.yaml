@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/861cb472810e4cb3b74a6bd8ca39017c/artifacts
+end_time: 1733809301552
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 861cb472810e4cb3b74a6bd8ca39017c
+run_name: stately-sow-422
+run_uuid: 861cb472810e4cb3b74a6bd8ca39017c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733809298111
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/53c5e4a3425e4a0d88f53f591a46a79e/artifacts
+end_time: 1733809291242
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 53c5e4a3425e4a0d88f53f591a46a79e
+run_name: capricious-mouse-438
+run_uuid: 53c5e4a3425e4a0d88f53f591a46a79e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733809287884
+status: 3
+tags: []
+user_id: jggl_
