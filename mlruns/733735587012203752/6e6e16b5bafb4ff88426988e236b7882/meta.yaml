@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/6e6e16b5bafb4ff88426988e236b7882/artifacts
+end_time: 1733809297829
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 6e6e16b5bafb4ff88426988e236b7882
+run_name: ambitious-ram-873
+run_uuid: 6e6e16b5bafb4ff88426988e236b7882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733809294713
+status: 3
+tags: []
+user_id: jggl_
