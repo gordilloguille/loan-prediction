@@ -18,13 +18,14 @@ def sklearn_pipeline_predict():
     config.read(os.path.join(project_path, "pipeline.cfg"))
 
     # configuración de servidor
-    mlflow.set_tracking_uri(config.get('mlflow', 'server').split(','))
+    mlflow.set_tracking_uri("http://127.0.0.1:5000")
     mlflow.set_experiment("Loan Predict Model - Prediccion de Modelos")
 
     with mlflow.start_run():
         test_dataset = pd.read_csv(os.path.join(project_path,"data","raw","loan_sanction_test.csv"))
-        test_dataset.drop(["Loan_ID"], axis=1, inplace=True)
+        test_dataset.drop([config.get('general', 'vars_to_drop').split(',')], axis=1, inplace=True)
         predictions = loan_prediction_model_pipeline.predict(test_dataset)
+        print("predict")
 
         # Almacenar las predicciones en un archivo CSV con fecha y hora actual
         timestamp = pd.Timestamp.now().strftime('%Y-%m-%d-%H-%M-%S')

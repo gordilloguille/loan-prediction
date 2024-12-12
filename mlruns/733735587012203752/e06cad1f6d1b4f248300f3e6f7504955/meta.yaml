@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/e06cad1f6d1b4f248300f3e6f7504955/artifacts
+end_time: 1733979704423
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: e06cad1f6d1b4f248300f3e6f7504955
+run_name: beautiful-wolf-782
+run_uuid: e06cad1f6d1b4f248300f3e6f7504955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733979700890
+status: 3
+tags: []
+user_id: jggl_

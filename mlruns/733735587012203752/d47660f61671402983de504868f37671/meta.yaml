@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d47660f61671402983de504868f37671/artifacts
+end_time: 1733979707772
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d47660f61671402983de504868f37671
+run_name: useful-mule-166
+run_uuid: d47660f61671402983de504868f37671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733979704482
+status: 3
+tags: []
+user_id: jggl_

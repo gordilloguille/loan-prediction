@@ -63,7 +63,7 @@ def sklearn_pipeline_train():
     ]
 
     # Configuración de servidor
-    mlflow.set_tracking_uri(config.get('mlflow', 'server').split(','))
+    mlflow.set_tracking_uri("http://127.0.0.1:5000")
     mlflow.set_experiment("Loan Predict Model - Training Modelos")
 
     # Entrenamiento de los modelos

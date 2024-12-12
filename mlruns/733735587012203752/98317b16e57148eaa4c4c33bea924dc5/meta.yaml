@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/98317b16e57148eaa4c4c33bea924dc5/artifacts
+end_time: 1733979714452
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 98317b16e57148eaa4c4c33bea924dc5
+run_name: invincible-jay-883
+run_uuid: 98317b16e57148eaa4c4c33bea924dc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733979711048
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/cf2363f2463f4eb1885dbc0c2d054d3e/artifacts
+end_time: 1733979717695
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: cf2363f2463f4eb1885dbc0c2d054d3e
+run_name: enchanting-kit-310
+run_uuid: cf2363f2463f4eb1885dbc0c2d054d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733979714526
+status: 3
+tags: []
+user_id: jggl_
