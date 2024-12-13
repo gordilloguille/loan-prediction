@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/695ff4d8f05646ffa9024efc3814c0c4/artifacts
+end_time: 1734061001572
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 695ff4d8f05646ffa9024efc3814c0c4
+run_name: learned-shoat-720
+run_uuid: 695ff4d8f05646ffa9024efc3814c0c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060997137
+status: 3
+tags: []
+user_id: jggl_

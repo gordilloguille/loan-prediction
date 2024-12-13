@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d615ccd3338f4b159c2e7ed385650f95/artifacts
+end_time: 1734060965118
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d615ccd3338f4b159c2e7ed385650f95
+run_name: able-whale-887
+run_uuid: d615ccd3338f4b159c2e7ed385650f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060960397
+status: 3
+tags: []
+user_id: jggl_

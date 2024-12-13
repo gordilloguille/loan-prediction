@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/3d2cccebc5be43ba91d9e2827fe53481/artifacts
+end_time: 1734061026903
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 3d2cccebc5be43ba91d9e2827fe53481
+run_name: dashing-snipe-203
+run_uuid: 3d2cccebc5be43ba91d9e2827fe53481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734061021790
+status: 3
+tags: []
+user_id: jggl_

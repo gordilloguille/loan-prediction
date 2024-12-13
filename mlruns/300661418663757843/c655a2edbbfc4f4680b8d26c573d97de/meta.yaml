@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/300661418663757843/c655a2edbbfc4f4680b8d26c573d97de/artifacts
+end_time: 1734060306293
+entry_point_name: ''
+experiment_id: '300661418663757843'
+lifecycle_stage: active
+run_id: c655a2edbbfc4f4680b8d26c573d97de
+run_name: puzzled-mole-464
+run_uuid: c655a2edbbfc4f4680b8d26c573d97de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060306210
+status: 4
+tags: []
+user_id: jggl_

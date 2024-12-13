@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/300661418663757843/ae9dacdc9d85402c825cb062cbf46e71/artifacts
+end_time: 1734060919370
+entry_point_name: ''
+experiment_id: '300661418663757843'
+lifecycle_stage: active
+run_id: ae9dacdc9d85402c825cb062cbf46e71
+run_name: bemused-shrimp-676
+run_uuid: ae9dacdc9d85402c825cb062cbf46e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060919220
+status: 3
+tags: []
+user_id: jggl_
