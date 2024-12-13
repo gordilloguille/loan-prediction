@@ -13,7 +13,7 @@ from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 
 
-def sklearn_pipeline_train():
+def configure_and_fit_pipeline():
     """Crea modelos de predicción utilizando un conjunto de datos procesados"""    
     project_path = os.getcwd()
     data_train = pd.read_csv(os.path.join(project_path,"data","processed","features_for_model.csv"))
@@ -126,3 +126,5 @@ def sklearn_pipeline_train():
 
     with open(os.path.join(project_path,"artifacts","pipeline_model.pkl"), 'wb') as file:
         pickle.dump(loan_prediction_model_pipeline, file)
+
+configure_and_fit_pipeline()

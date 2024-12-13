@@ -9,17 +9,20 @@ import pandas as pd
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-from feature_engine.imputation import MeanMedianImputer, CategoricalImputer
-from feature_engine.encoding import OneHotEncoder, CountFrequencyEncoder
+from feature_engine.imputation import MeanMedianImputer
+from feature_engine.imputation import CategoricalImputer
+from feature_engine.encoding import OneHotEncoder
+from feature_engine.encoding import CountFrequencyEncoder
 from feature_engine.selection import DropFeatures
 
-
-def sklearn_pipeline():
+def create_features_and_base_pipeline():
     """
     Realiza las configuraciones correspondientes del Pipeline
     utiilizando el archivo pipeline.cfg para definir las variables    
     """
+    # Obtener el directorio actual
     project_path = os.getcwd()
+
     dataset = pd.read_csv(os.path.join(project_path,"data","raw","loan_sanction_train.csv"))
 
     # leemos del configparser.
@@ -28,15 +31,13 @@ def sklearn_pipeline():
 
     # configuracipon del Pipeline
     x_features = dataset.drop(labels=config.get('general', 'vars_to_drop').split(','),axis=1)
-    y_target = dataset[config.get('general', 'target').split(',')].map({'Y': 1, 'N': 0})
+    y_target = dataset[config.get('general', 'target')].map({'Y': 1, 'N': 0})
+
 
     x_train, x_test, y_train, y_test = train_test_split(
         x_features,y_target, test_size=0.3,shuffle=True,random_state=2025)
 
     loan_prediction_model = Pipeline([
-        # eliminamos variables que no usaremos.
-        ('delete_features', DropFeatures(
-            features_to_drop=config.get('general', 'vars_to_drop').split(','))),
         # Imputacion de variables continuas
         ("continues_var_mean_imputacion",MeanMedianImputer(
             imputation_method="mean",
@@ -58,7 +59,8 @@ def sklearn_pipeline():
         # Estandarizacion de variables
         ("feature_scaling",StandardScaler())
     ])
-
+    
+    # Ajustar el modelo antes de transformar los datos
     loan_prediction_model.fit(x_train)
 
     x_features_processed = loan_prediction_model.transform(x_train)
@@ -69,11 +71,13 @@ def sklearn_pipeline():
             config.get('general', 'target').split(',')]
 
     # Almacenado de datos para entrenar los modelos.
-    df_features_process.to_csv(
-        os.path.join(project_path,"data",'processed","features_for_model.csv'), index=False)
-
-    x_test[config.get('general', 'target').split(',')] = y_test
+    df_features_process.to_csv(os.path.join(project_path,"data","processed","features_for_model.csv"))    
+        #os.path.join(project_path,"data",'processed","features_for_model.csv'), index=False)
+    
+    x_test[config.get('general', 'target')] = y_test
     x_test.to_csv(os.path.join(project_path,"data","processed","test_dataset.csv"), index=False)
 
     with open(os.path.join(project_path,"artifacts","pipeline.pkl"), 'wb') as file:
         pickle.dump(loan_prediction_model, file)
+
+create_features_and_base_pipeline()
