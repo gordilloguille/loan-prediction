@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/02620cd3d1ea40348bbac62da6e6a795/artifacts
+end_time: 1734060975711
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 02620cd3d1ea40348bbac62da6e6a795
+run_name: blushing-gnat-935
+run_uuid: 02620cd3d1ea40348bbac62da6e6a795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060970262
+status: 3
+tags: []
+user_id: jggl_

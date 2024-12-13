@@ -1,0 +1,9 @@
+stages:
+  create_features:
+    cmd: python loand_prediction/create_features_and_base_pipeline.py
+
+  train:
+    cmd: python loand_prediction/configure_and_fit_pipeline.py
+
+  predict:
+    cmd: python loand_prediction/predict_pipeline.py

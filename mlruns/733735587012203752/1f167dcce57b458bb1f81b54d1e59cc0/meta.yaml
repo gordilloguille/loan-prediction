@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/1f167dcce57b458bb1f81b54d1e59cc0/artifacts
+end_time: 1733979672899
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 1f167dcce57b458bb1f81b54d1e59cc0
+run_name: nervous-hog-86
+run_uuid: 1f167dcce57b458bb1f81b54d1e59cc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733979666213
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/46cb1f3f77ac47fbb9990bd8bfb39bde/artifacts
+end_time: 1733809142611
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 46cb1f3f77ac47fbb9990bd8bfb39bde
+run_name: chill-crane-415
+run_uuid: 46cb1f3f77ac47fbb9990bd8bfb39bde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733809142528
+status: 4
+tags: []
+user_id: jggl_

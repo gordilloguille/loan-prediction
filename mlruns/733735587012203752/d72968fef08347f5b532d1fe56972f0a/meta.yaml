@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d72968fef08347f5b532d1fe56972f0a/artifacts
+end_time: 1734059456985
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d72968fef08347f5b532d1fe56972f0a
+run_name: industrious-owl-559
+run_uuid: d72968fef08347f5b532d1fe56972f0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734059452679
+status: 3
+tags: []
+user_id: jggl_

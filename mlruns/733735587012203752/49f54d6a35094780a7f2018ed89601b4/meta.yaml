@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/49f54d6a35094780a7f2018ed89601b4/artifacts
+end_time: 1734059337710
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 49f54d6a35094780a7f2018ed89601b4
+run_name: thundering-pug-311
+run_uuid: 49f54d6a35094780a7f2018ed89601b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734059337627
+status: 4
+tags: []
+user_id: jggl_

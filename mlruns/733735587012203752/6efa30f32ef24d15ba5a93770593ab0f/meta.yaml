@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/6efa30f32ef24d15ba5a93770593ab0f/artifacts
+end_time: 1734059422970
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 6efa30f32ef24d15ba5a93770593ab0f
+run_name: entertaining-bug-768
+run_uuid: 6efa30f32ef24d15ba5a93770593ab0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734059418316
+status: 3
+tags: []
+user_id: jggl_

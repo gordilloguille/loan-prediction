@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/e4411985edaa4fa79e49a79f644a1409/artifacts
+end_time: 1733979688513
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: e4411985edaa4fa79e49a79f644a1409
+run_name: masked-shrimp-989
+run_uuid: e4411985edaa4fa79e49a79f644a1409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733979684886
+status: 3
+tags: []
+user_id: jggl_

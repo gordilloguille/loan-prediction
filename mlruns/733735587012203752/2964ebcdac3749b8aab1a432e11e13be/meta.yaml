@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/2964ebcdac3749b8aab1a432e11e13be/artifacts
+end_time: 1734060960332
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 2964ebcdac3749b8aab1a432e11e13be
+run_name: useful-vole-190
+run_uuid: 2964ebcdac3749b8aab1a432e11e13be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060954482
+status: 3
+tags: []
+user_id: jggl_

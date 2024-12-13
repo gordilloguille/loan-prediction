@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/0645164fca8f4c999a4f055c717abc0c/artifacts
+end_time: 1734060986186
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 0645164fca8f4c999a4f055c717abc0c
+run_name: charming-mink-770
+run_uuid: 0645164fca8f4c999a4f055c717abc0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060981424
+status: 3
+tags: []
+user_id: jggl_

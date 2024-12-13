@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/437b9acc598d4d2281fefcce0b0d7d90/artifacts
+end_time: 1734061006690
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 437b9acc598d4d2281fefcce0b0d7d90
+run_name: enchanting-smelt-770
+run_uuid: 437b9acc598d4d2281fefcce0b0d7d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734061001638
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/43645d1c63ae406eb99e9a94a39e3971/artifacts
+end_time: 1733979700529
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 43645d1c63ae406eb99e9a94a39e3971
+run_name: bemused-cat-139
+run_uuid: 43645d1c63ae406eb99e9a94a39e3971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733979696951
+status: 3
+tags: []
+user_id: jggl_

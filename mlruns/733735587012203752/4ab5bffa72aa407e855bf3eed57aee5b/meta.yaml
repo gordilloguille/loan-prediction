@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/4ab5bffa72aa407e855bf3eed57aee5b/artifacts
+end_time: 1734059427992
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 4ab5bffa72aa407e855bf3eed57aee5b
+run_name: abundant-sow-57
+run_uuid: 4ab5bffa72aa407e855bf3eed57aee5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734059423092
+status: 3
+tags: []
+user_id: jggl_

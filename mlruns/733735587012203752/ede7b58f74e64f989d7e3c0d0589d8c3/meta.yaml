@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/ede7b58f74e64f989d7e3c0d0589d8c3/artifacts
+end_time: 1733979680694
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: ede7b58f74e64f989d7e3c0d0589d8c3
+run_name: unique-fish-887
+run_uuid: ede7b58f74e64f989d7e3c0d0589d8c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733979676592
+status: 3
+tags: []
+user_id: jggl_

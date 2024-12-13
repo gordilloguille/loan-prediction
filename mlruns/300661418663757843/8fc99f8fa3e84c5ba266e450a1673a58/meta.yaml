@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/300661418663757843/8fc99f8fa3e84c5ba266e450a1673a58/artifacts
+end_time: 1734060030655
+entry_point_name: ''
+experiment_id: '300661418663757843'
+lifecycle_stage: active
+run_id: 8fc99f8fa3e84c5ba266e450a1673a58
+run_name: bustling-finch-193
+run_uuid: 8fc99f8fa3e84c5ba266e450a1673a58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060030594
+status: 4
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/27e768df542b4897941397e5855bc101/artifacts
+end_time: 1734059480927
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 27e768df542b4897941397e5855bc101
+run_name: ambitious-bug-150
+run_uuid: 27e768df542b4897941397e5855bc101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734059475546
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d7514d09a8924f7db288084d8063711b/artifacts
+end_time: 1734060970084
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d7514d09a8924f7db288084d8063711b
+run_name: victorious-auk-852
+run_uuid: d7514d09a8924f7db288084d8063711b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060965177
+status: 3
+tags: []
+user_id: jggl_

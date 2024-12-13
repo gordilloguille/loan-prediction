@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/300661418663757843/33c43c0607de494d9c7bc02992496139/artifacts
+end_time: 1734060877899
+entry_point_name: ''
+experiment_id: '300661418663757843'
+lifecycle_stage: active
+run_id: 33c43c0607de494d9c7bc02992496139
+run_name: funny-finch-209
+run_uuid: 33c43c0607de494d9c7bc02992496139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060877789
+status: 4
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/300661418663757843/a886666181074714a207258899a00f74/artifacts
+end_time: 1734060812603
+entry_point_name: ''
+experiment_id: '300661418663757843'
+lifecycle_stage: active
+run_id: a886666181074714a207258899a00f74
+run_name: resilient-loon-104
+run_uuid: a886666181074714a207258899a00f74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734060812482
+status: 4
+tags: []
+user_id: jggl_

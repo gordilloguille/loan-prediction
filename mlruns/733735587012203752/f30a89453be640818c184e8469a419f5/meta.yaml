@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/f30a89453be640818c184e8469a419f5/artifacts
+end_time: 1733809305273
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: f30a89453be640818c184e8469a419f5
+run_name: carefree-hog-552
+run_uuid: f30a89453be640818c184e8469a419f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733809302012
+status: 3
+tags: []
+user_id: jggl_
