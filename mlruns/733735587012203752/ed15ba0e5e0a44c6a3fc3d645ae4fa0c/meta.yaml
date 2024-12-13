@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/ed15ba0e5e0a44c6a3fc3d645ae4fa0c/artifacts
+end_time: 1734066857702
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: ed15ba0e5e0a44c6a3fc3d645ae4fa0c
+run_name: gentle-hare-130
+run_uuid: ed15ba0e5e0a44c6a3fc3d645ae4fa0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066852587
+status: 3
+tags: []
+user_id: jggl_

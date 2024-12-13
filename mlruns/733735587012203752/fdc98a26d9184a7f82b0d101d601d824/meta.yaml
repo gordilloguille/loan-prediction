@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/fdc98a26d9184a7f82b0d101d601d824/artifacts
+end_time: 1734066654573
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: fdc98a26d9184a7f82b0d101d601d824
+run_name: mercurial-mare-655
+run_uuid: fdc98a26d9184a7f82b0d101d601d824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066649962
+status: 3
+tags: []
+user_id: jggl_

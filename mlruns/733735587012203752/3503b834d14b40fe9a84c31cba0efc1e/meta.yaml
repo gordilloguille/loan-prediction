@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/3503b834d14b40fe9a84c31cba0efc1e/artifacts
+end_time: 1734066843145
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 3503b834d14b40fe9a84c31cba0efc1e
+run_name: dazzling-lark-957
+run_uuid: 3503b834d14b40fe9a84c31cba0efc1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066838993
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d2a564f455034863b07f6df482078f53/artifacts
+end_time: 1734066847834
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d2a564f455034863b07f6df482078f53
+run_name: rumbling-ox-207
+run_uuid: d2a564f455034863b07f6df482078f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066843240
+status: 3
+tags: []
+user_id: jggl_

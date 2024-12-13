@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/c75d525493ff408abdf2b80a9c2c1e11/artifacts
+end_time: 1734067329939
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: c75d525493ff408abdf2b80a9c2c1e11
+run_name: enthused-crow-726
+run_uuid: c75d525493ff408abdf2b80a9c2c1e11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067324700
+status: 3
+tags: []
+user_id: jggl_

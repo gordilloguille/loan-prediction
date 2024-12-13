@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/2781cc0a461e40ecb17acf80830b1c76/artifacts
+end_time: 1734066334047
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 2781cc0a461e40ecb17acf80830b1c76
+run_name: classy-swan-585
+run_uuid: 2781cc0a461e40ecb17acf80830b1c76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066329338
+status: 3
+tags: []
+user_id: jggl_

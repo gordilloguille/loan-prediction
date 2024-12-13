@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/e5f04e2f6a1046ec904418c22f9c7f2b/artifacts
+end_time: 1734067169102
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: e5f04e2f6a1046ec904418c22f9c7f2b
+run_name: calm-frog-195
+run_uuid: e5f04e2f6a1046ec904418c22f9c7f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067164550
+status: 3
+tags: []
+user_id: jggl_

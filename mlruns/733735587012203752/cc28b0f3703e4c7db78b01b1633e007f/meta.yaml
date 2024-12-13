@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/cc28b0f3703e4c7db78b01b1633e007f/artifacts
+end_time: 1734066504039
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: cc28b0f3703e4c7db78b01b1633e007f
+run_name: marvelous-rat-171
+run_uuid: cc28b0f3703e4c7db78b01b1633e007f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066498387
+status: 3
+tags: []
+user_id: jggl_

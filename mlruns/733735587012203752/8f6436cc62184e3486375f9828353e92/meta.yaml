@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/8f6436cc62184e3486375f9828353e92/artifacts
+end_time: 1734066659329
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 8f6436cc62184e3486375f9828353e92
+run_name: welcoming-sheep-918
+run_uuid: 8f6436cc62184e3486375f9828353e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066654922
+status: 3
+tags: []
+user_id: jggl_

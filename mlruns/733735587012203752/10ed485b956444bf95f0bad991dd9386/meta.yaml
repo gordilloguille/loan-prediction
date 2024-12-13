@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/10ed485b956444bf95f0bad991dd9386/artifacts
+end_time: 1734067177841
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 10ed485b956444bf95f0bad991dd9386
+run_name: beautiful-fox-676
+run_uuid: 10ed485b956444bf95f0bad991dd9386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067173513
+status: 3
+tags: []
+user_id: jggl_

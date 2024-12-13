@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/5d19628957ff4fd4bce3863e96e19605/artifacts
+end_time: 1734066509615
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 5d19628957ff4fd4bce3863e96e19605
+run_name: wise-toad-419
+run_uuid: 5d19628957ff4fd4bce3863e96e19605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066504224
+status: 3
+tags: []
+user_id: jggl_

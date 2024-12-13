@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/fbbc59c21c9a4b2d95f6eb45c36a1889/artifacts
+end_time: 1734066352884
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: fbbc59c21c9a4b2d95f6eb45c36a1889
+run_name: rare-hog-735
+run_uuid: fbbc59c21c9a4b2d95f6eb45c36a1889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066348630
+status: 3
+tags: []
+user_id: jggl_

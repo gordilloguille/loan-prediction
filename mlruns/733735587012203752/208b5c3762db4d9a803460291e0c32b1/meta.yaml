@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/208b5c3762db4d9a803460291e0c32b1/artifacts
+end_time: 1734066999798
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 208b5c3762db4d9a803460291e0c32b1
+run_name: zealous-tern-748
+run_uuid: 208b5c3762db4d9a803460291e0c32b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066994822
+status: 3
+tags: []
+user_id: jggl_

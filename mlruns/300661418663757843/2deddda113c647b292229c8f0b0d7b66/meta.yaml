@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/300661418663757843/2deddda113c647b292229c8f0b0d7b66/artifacts
+end_time: 1734066715620
+entry_point_name: ''
+experiment_id: '300661418663757843'
+lifecycle_stage: active
+run_id: 2deddda113c647b292229c8f0b0d7b66
+run_name: illustrious-asp-346
+run_uuid: 2deddda113c647b292229c8f0b0d7b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066715464
+status: 3
+tags: []
+user_id: jggl_

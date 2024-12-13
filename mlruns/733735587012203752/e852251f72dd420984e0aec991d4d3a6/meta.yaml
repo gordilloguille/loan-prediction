@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/e852251f72dd420984e0aec991d4d3a6/artifacts
+end_time: 1734066357710
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: e852251f72dd420984e0aec991d4d3a6
+run_name: unique-finch-682
+run_uuid: e852251f72dd420984e0aec991d4d3a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066353080
+status: 3
+tags: []
+user_id: jggl_

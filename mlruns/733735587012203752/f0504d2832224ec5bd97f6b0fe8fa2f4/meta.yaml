@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/f0504d2832224ec5bd97f6b0fe8fa2f4/artifacts
+end_time: 1734066515444
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: f0504d2832224ec5bd97f6b0fe8fa2f4
+run_name: wistful-pug-696
+run_uuid: f0504d2832224ec5bd97f6b0fe8fa2f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066510080
+status: 3
+tags: []
+user_id: jggl_

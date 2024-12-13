@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/41d13629a5db44b99efd6e5951f1d26e/artifacts
+end_time: 1734066955342
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 41d13629a5db44b99efd6e5951f1d26e
+run_name: fun-roo-146
+run_uuid: 41d13629a5db44b99efd6e5951f1d26e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066950503
+status: 3
+tags: []
+user_id: jggl_

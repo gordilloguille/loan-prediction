@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d13b661c116244228345c440b80a7151/artifacts
+end_time: 1734066945099
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d13b661c116244228345c440b80a7151
+run_name: charming-mule-399
+run_uuid: d13b661c116244228345c440b80a7151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066940507
+status: 3
+tags: []
+user_id: jggl_

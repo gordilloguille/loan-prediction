@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/f1c3ce231fb34eafaa7dbe84c2a7dbe3/artifacts
+end_time: 1734066833773
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: f1c3ce231fb34eafaa7dbe84c2a7dbe3
+run_name: luxuriant-mole-143
+run_uuid: f1c3ce231fb34eafaa7dbe84c2a7dbe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066828091
+status: 3
+tags: []
+user_id: jggl_

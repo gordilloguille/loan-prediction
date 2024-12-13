@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/130f65aaba9c4f188013b13fdb21abc3/artifacts
+end_time: 1734067288442
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 130f65aaba9c4f188013b13fdb21abc3
+run_name: overjoyed-mink-334
+run_uuid: 130f65aaba9c4f188013b13fdb21abc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067283873
+status: 3
+tags: []
+user_id: jggl_

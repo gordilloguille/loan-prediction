@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/82effb3b555e422cbbb1b43caa878469/artifacts
+end_time: 1734066868572
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 82effb3b555e422cbbb1b43caa878469
+run_name: overjoyed-zebra-863
+run_uuid: 82effb3b555e422cbbb1b43caa878469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066863702
+status: 3
+tags: []
+user_id: jggl_

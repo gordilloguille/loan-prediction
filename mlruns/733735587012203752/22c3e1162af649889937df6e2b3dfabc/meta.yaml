@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/22c3e1162af649889937df6e2b3dfabc/artifacts
+end_time: 1734066619595
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 22c3e1162af649889937df6e2b3dfabc
+run_name: unequaled-sheep-150
+run_uuid: 22c3e1162af649889937df6e2b3dfabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066613368
+status: 3
+tags: []
+user_id: jggl_

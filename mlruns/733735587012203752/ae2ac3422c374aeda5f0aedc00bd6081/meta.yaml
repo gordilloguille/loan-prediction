@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/ae2ac3422c374aeda5f0aedc00bd6081/artifacts
+end_time: 1734067343600
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: ae2ac3422c374aeda5f0aedc00bd6081
+run_name: melodic-trout-416
+run_uuid: ae2ac3422c374aeda5f0aedc00bd6081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067339327
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/40fc8d546f1f463c91de00ed85bfeea2/artifacts
+end_time: 1734066960467
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 40fc8d546f1f463c91de00ed85bfeea2
+run_name: peaceful-dolphin-7
+run_uuid: 40fc8d546f1f463c91de00ed85bfeea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066955572
+status: 3
+tags: []
+user_id: jggl_

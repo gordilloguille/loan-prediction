@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/863126c9e2d242dda18c0a2dc5f6c117/artifacts
+end_time: 1734066498202
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 863126c9e2d242dda18c0a2dc5f6c117
+run_name: magnificent-tern-280
+run_uuid: 863126c9e2d242dda18c0a2dc5f6c117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066491373
+status: 3
+tags: []
+user_id: jggl_

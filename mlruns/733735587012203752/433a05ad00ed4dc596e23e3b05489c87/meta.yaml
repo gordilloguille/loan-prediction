@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/433a05ad00ed4dc596e23e3b05489c87/artifacts
+end_time: 1734066667784
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 433a05ad00ed4dc596e23e3b05489c87
+run_name: rare-snail-948
+run_uuid: 433a05ad00ed4dc596e23e3b05489c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066663563
+status: 3
+tags: []
+user_id: jggl_

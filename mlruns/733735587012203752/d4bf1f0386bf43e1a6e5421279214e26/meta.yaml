@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d4bf1f0386bf43e1a6e5421279214e26/artifacts
+end_time: 1734067128994
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d4bf1f0386bf43e1a6e5421279214e26
+run_name: glamorous-hen-140
+run_uuid: d4bf1f0386bf43e1a6e5421279214e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067123097
+status: 3
+tags: []
+user_id: jggl_

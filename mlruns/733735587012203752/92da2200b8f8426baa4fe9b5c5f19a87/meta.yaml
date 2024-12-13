@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/92da2200b8f8426baa4fe9b5c5f19a87/artifacts
+end_time: 1734067004877
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 92da2200b8f8426baa4fe9b5c5f19a87
+run_name: valuable-fly-321
+run_uuid: 92da2200b8f8426baa4fe9b5c5f19a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066999872
+status: 3
+tags: []
+user_id: jggl_

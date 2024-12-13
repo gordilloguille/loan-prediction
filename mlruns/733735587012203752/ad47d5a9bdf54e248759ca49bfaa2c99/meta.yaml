@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/ad47d5a9bdf54e248759ca49bfaa2c99/artifacts
+end_time: 1734066519628
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: ad47d5a9bdf54e248759ca49bfaa2c99
+run_name: learned-skink-372
+run_uuid: ad47d5a9bdf54e248759ca49bfaa2c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066515514
+status: 3
+tags: []
+user_id: jggl_

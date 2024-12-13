@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d9607f815d9f4d24af805f83e7d99f68/artifacts
+end_time: 1734067339246
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d9607f815d9f4d24af805f83e7d99f68
+run_name: beautiful-shrimp-517
+run_uuid: d9607f815d9f4d24af805f83e7d99f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067334865
+status: 3
+tags: []
+user_id: jggl_

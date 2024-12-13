@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/e837686bcab64b5f812a4f42cd4cb3a1/artifacts
+end_time: 1734066371160
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: e837686bcab64b5f812a4f42cd4cb3a1
+run_name: dazzling-pig-378
+run_uuid: e837686bcab64b5f812a4f42cd4cb3a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066366681
+status: 3
+tags: []
+user_id: jggl_

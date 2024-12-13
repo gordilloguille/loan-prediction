@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/ee010a2fbfb544aebce4978ba3fac733/artifacts
+end_time: 1734067303308
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: ee010a2fbfb544aebce4978ba3fac733
+run_name: nosy-loon-579
+run_uuid: ee010a2fbfb544aebce4978ba3fac733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067298550
+status: 3
+tags: []
+user_id: jggl_

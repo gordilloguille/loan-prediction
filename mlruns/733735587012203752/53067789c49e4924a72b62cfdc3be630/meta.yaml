@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/53067789c49e4924a72b62cfdc3be630/artifacts
+end_time: 1734067164178
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 53067789c49e4924a72b62cfdc3be630
+run_name: bustling-slug-180
+run_uuid: 53067789c49e4924a72b62cfdc3be630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067159044
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/286270c54e1f4f68ba842b1ff6791aea/artifacts
+end_time: 1734067182373
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 286270c54e1f4f68ba842b1ff6791aea
+run_name: bouncy-mare-270
+run_uuid: 286270c54e1f4f68ba842b1ff6791aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067177901
+status: 3
+tags: []
+user_id: jggl_

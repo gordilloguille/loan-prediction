@@ -11,7 +11,7 @@ import pandas as pd
 def predict_pipeline():
     """Leemos el Pipeline ya con el modelo correspondiente"""
     project_path = os.getcwd()
-    with open(os.path.join(project_path,"artifacts","pipeline_model.pkl"), 'rb') as  file:
+    with open(os.path.join(project_path,"artifacts","trainded_pipeline.pkl"), 'rb') as  file:
         loan_prediction_model_pipeline = pickle.load(file)
 
     # leemos del configparser.

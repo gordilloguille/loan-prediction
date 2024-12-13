@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/f7e03e72e5e54db2b5ce3a9beabecb76/artifacts
+end_time: 1734066329291
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: f7e03e72e5e54db2b5ce3a9beabecb76
+run_name: useful-hound-954
+run_uuid: f7e03e72e5e54db2b5ce3a9beabecb76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066324556
+status: 3
+tags: []
+user_id: jggl_

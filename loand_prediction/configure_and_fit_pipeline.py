@@ -11,31 +11,40 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.model_selection import train_test_split
 
 def configure_and_fit_pipeline():
     """Crea modelos de predicción utilizando un conjunto de datos procesados"""    
     project_path = os.getcwd()
-    data_train = pd.read_csv(os.path.join(project_path,"data","processed","features_for_model.csv"))
-    data_test = pd.read_csv(os.path.join(project_path,"data","processed","test_dataset.csv"))
+    data_train = pd.read_csv(os.path.join(project_path,"data","raw","loan_sanction_train.csv"))
 
     # leemos del configparser.
     config = configparser.ConfigParser()
     config.read(os.path.join(project_path, "pipeline.cfg"))
 
-    x_features = data_train.drop([config.get('general', 'target')], axis=1)
-    y_target = data_train[config.get('general', 'target')]
+    vars_to_drop = config.get('general', 'vars_to_drop').split(',')
+    vars_to_drop.remove(config.get('general', 'target'))
 
-    x_features_test = data_test.drop([config.get('general', 'target')], axis=1)
-    y_target_test = data_test[config.get('general', 'target')]
-
-    # ### Leemos el Pipeline pre-configurado
+        # ### Leemos el Pipeline pre-configurado
     with open(os.path.join(project_path,"artifacts","pipeline.pkl"), 'rb') as  file:
         loan_prediction_model_pipeline = pickle.load(file)
+    # configuracipon del Pipeline
+    x_features = data_train.drop(labels=config.get('general', 'vars_to_drop').split(','),axis=1)
+    y_target = data_train[config.get('general', 'target')].map({'Y': 1, 'N': 0})
 
-    # Entrenamiento de Modelos
-    x_features_test_arr = loan_prediction_model_pipeline.transform(x_features_test)
-    df_features_test = pd.DataFrame(x_features_test_arr, columns=x_features_test.columns)
-    df_features_test.head()
+
+    x_train, x_test, y_train, y_test = train_test_split(
+        x_features,y_target, test_size=0.3,shuffle=True,random_state=2025)
+
+    # dataset de entrenamiento.
+    x_features_train = loan_prediction_model_pipeline.fit_transform(x_train)
+    col_names = list(set(x_train.columns).difference(set(vars_to_drop)))
+    df_features_train = pd.DataFrame(x_features_train, columns=col_names)
+
+    # dataset para seleccion de modelo según métrica.
+    x_features_test = loan_prediction_model_pipeline.transform(x_test)
+    col_names = list(set(x_train.columns).difference(set(vars_to_drop)))
+    df_features_test = pd.DataFrame(x_features_test, columns=col_names)
 
     # 1. Lista de modelos para evaluar
     models = [
@@ -68,9 +77,9 @@ def configure_and_fit_pipeline():
 
     with mlflow.start_run():
         for name, num, model in models:
-            model.fit(x_features, y_target)
-            y_pred = model.predict(df_features_test)
-            acc = accuracy_score(y_target_test, y_pred)
+            model.fit(x_features_train, y_train)
+            y_pred = model.predict(x_features_test)
+            acc = accuracy_score(y_test, y_pred)
             results.append((name,num, acc))
 
             # registramos hiper-parametros
@@ -114,14 +123,10 @@ def configure_and_fit_pipeline():
             ("modelo_knn",modelo[0])
         )
 
-    train_dataset = pd.read_csv(os.path.join(project_path, "data","raw","loan_sanction_train.csv"))
-    train_dataset.drop(["Loan_ID"], axis=1, inplace=True)
-    train_dataset_features = train_dataset.drop("Loan_Status", axis=1)
-    train_dataset_target = train_dataset["Loan_Status"].map({'Y': 1, 'N': 0})
+    # configuración y entrenamiento del modelo final
+    loan_prediction_model_pipeline.fit(x_train, y_train)
 
-    loan_prediction_model_pipeline.fit(train_dataset_features,train_dataset_target)
-
-    with open(os.path.join(project_path,"artifacts","pipeline_model.pkl"), 'wb') as file:
+    with open(os.path.join(project_path,"artifacts","trainded_pipeline.pkl"), 'wb') as file:
         pickle.dump(loan_prediction_model_pipeline, file)
 
 configure_and_fit_pipeline()

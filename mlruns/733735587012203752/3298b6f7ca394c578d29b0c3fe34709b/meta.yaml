@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/3298b6f7ca394c578d29b0c3fe34709b/artifacts
+end_time: 1734067324631
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 3298b6f7ca394c578d29b0c3fe34709b
+run_name: brawny-grub-895
+run_uuid: 3298b6f7ca394c578d29b0c3fe34709b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067320175
+status: 3
+tags: []
+user_id: jggl_

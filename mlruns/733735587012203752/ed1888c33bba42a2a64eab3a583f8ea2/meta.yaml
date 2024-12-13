@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/ed1888c33bba42a2a64eab3a583f8ea2/artifacts
+end_time: 1734066810992
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: ed1888c33bba42a2a64eab3a583f8ea2
+run_name: skittish-dove-679
+run_uuid: ed1888c33bba42a2a64eab3a583f8ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066805731
+status: 3
+tags: []
+user_id: jggl_

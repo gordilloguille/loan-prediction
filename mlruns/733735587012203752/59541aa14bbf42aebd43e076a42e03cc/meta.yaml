@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/59541aa14bbf42aebd43e076a42e03cc/artifacts
+end_time: 1734066343402
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 59541aa14bbf42aebd43e076a42e03cc
+run_name: nervous-chimp-952
+run_uuid: 59541aa14bbf42aebd43e076a42e03cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066338930
+status: 3
+tags: []
+user_id: jggl_

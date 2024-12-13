@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/85e9f1a926054489b6e26bc9cd91135c/artifacts
+end_time: 1734067274202
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 85e9f1a926054489b6e26bc9cd91135c
+run_name: selective-seal-745
+run_uuid: 85e9f1a926054489b6e26bc9cd91135c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067268139
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/aef061618b7b4841a7b21469617b7045/artifacts
+end_time: 1734066485496
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: aef061618b7b4841a7b21469617b7045
+run_name: secretive-deer-954
+run_uuid: aef061618b7b4841a7b21469617b7045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066480688
+status: 3
+tags: []
+user_id: jggl_

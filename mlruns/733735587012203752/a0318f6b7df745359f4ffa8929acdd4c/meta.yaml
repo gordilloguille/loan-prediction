@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/a0318f6b7df745359f4ffa8929acdd4c/artifacts
+end_time: 1734066965982
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: a0318f6b7df745359f4ffa8929acdd4c
+run_name: luminous-bat-973
+run_uuid: a0318f6b7df745359f4ffa8929acdd4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066961047
+status: 3
+tags: []
+user_id: jggl_

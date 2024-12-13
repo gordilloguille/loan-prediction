@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/f0227edb8b4841c3980899fcd0295a1e/artifacts
+end_time: 1734066324512
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: f0227edb8b4841c3980899fcd0295a1e
+run_name: zealous-cub-416
+run_uuid: f0227edb8b4841c3980899fcd0295a1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066318836
+status: 3
+tags: []
+user_id: jggl_

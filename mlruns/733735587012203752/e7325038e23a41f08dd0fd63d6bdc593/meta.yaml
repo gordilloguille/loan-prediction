@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/e7325038e23a41f08dd0fd63d6bdc593/artifacts
+end_time: 1734067014540
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: e7325038e23a41f08dd0fd63d6bdc593
+run_name: youthful-croc-920
+run_uuid: e7325038e23a41f08dd0fd63d6bdc593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067009943
+status: 3
+tags: []
+user_id: jggl_

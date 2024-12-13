@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/ad39e39774c34c88b396be12b3a3b89d/artifacts
+end_time: 1734066475573
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: ad39e39774c34c88b396be12b3a3b89d
+run_name: skittish-owl-541
+run_uuid: ad39e39774c34c88b396be12b3a3b89d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066470679
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/61b4538418bd49538ba5f0a3179dff09/artifacts
+end_time: 1734066524096
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 61b4538418bd49538ba5f0a3179dff09
+run_name: hilarious-dolphin-37
+run_uuid: 61b4538418bd49538ba5f0a3179dff09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066519677
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/5a4dbd446b654f0b9d7722c14a8425fe/artifacts
+end_time: 1734067158668
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 5a4dbd446b654f0b9d7722c14a8425fe
+run_name: dazzling-stork-391
+run_uuid: 5a4dbd446b654f0b9d7722c14a8425fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067153736
+status: 3
+tags: []
+user_id: jggl_

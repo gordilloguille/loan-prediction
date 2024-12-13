@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/ae669f31d05c4bfa8488949fe2c96f1b/artifacts
+end_time: 1734066977138
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: ae669f31d05c4bfa8488949fe2c96f1b
+run_name: youthful-fox-52
+run_uuid: ae669f31d05c4bfa8488949fe2c96f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066971192
+status: 3
+tags: []
+user_id: jggl_

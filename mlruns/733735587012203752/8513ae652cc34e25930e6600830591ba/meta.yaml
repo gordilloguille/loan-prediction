@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/8513ae652cc34e25930e6600830591ba/artifacts
+end_time: 1734066376171
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 8513ae652cc34e25930e6600830591ba
+run_name: shivering-bear-314
+run_uuid: 8513ae652cc34e25930e6600830591ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066371237
+status: 3
+tags: []
+user_id: jggl_

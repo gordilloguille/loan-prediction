@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/1bae2714b180456f85324d1272f8475c/artifacts
+end_time: 1734066634396
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 1bae2714b180456f85324d1272f8475c
+run_name: classy-sow-27
+run_uuid: 1bae2714b180456f85324d1272f8475c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066629870
+status: 3
+tags: []
+user_id: jggl_

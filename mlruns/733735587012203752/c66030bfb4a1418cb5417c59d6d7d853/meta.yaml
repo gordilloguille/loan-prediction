@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/c66030bfb4a1418cb5417c59d6d7d853/artifacts
+end_time: 1734066390784
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: c66030bfb4a1418cb5417c59d6d7d853
+run_name: carefree-newt-211
+run_uuid: c66030bfb4a1418cb5417c59d6d7d853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066385278
+status: 3
+tags: []
+user_id: jggl_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/1a4fb4fed83948ee9f372a63afc75581/artifacts
+end_time: 1734067187380
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 1a4fb4fed83948ee9f372a63afc75581
+run_name: angry-roo-231
+run_uuid: 1a4fb4fed83948ee9f372a63afc75581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067182474
+status: 3
+tags: []
+user_id: jggl_

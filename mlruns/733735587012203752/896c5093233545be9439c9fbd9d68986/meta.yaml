@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/896c5093233545be9439c9fbd9d68986/artifacts
+end_time: 1734067153595
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 896c5093233545be9439c9fbd9d68986
+run_name: spiffy-fowl-424
+run_uuid: 896c5093233545be9439c9fbd9d68986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067149206
+status: 3
+tags: []
+user_id: jggl_

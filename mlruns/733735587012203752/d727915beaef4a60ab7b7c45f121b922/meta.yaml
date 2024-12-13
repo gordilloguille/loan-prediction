@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d727915beaef4a60ab7b7c45f121b922/artifacts
+end_time: 1734066639375
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d727915beaef4a60ab7b7c45f121b922
+run_name: painted-kit-221
+run_uuid: d727915beaef4a60ab7b7c45f121b922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066634597
+status: 3
+tags: []
+user_id: jggl_

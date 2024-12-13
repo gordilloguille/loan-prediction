@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/5d018f3099134100b4425a6c8a92871e/artifacts
+end_time: 1734066852519
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 5d018f3099134100b4425a6c8a92871e
+run_name: bald-cat-994
+run_uuid: 5d018f3099134100b4425a6c8a92871e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734066847897
+status: 3
+tags: []
+user_id: jggl_

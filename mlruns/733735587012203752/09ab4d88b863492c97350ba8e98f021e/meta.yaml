@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/09ab4d88b863492c97350ba8e98f021e/artifacts
+end_time: 1734067143140
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 09ab4d88b863492c97350ba8e98f021e
+run_name: peaceful-doe-344
+run_uuid: 09ab4d88b863492c97350ba8e98f021e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734067138522
+status: 3
+tags: []
+user_id: jggl_
