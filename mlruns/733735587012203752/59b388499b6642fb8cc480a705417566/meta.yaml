@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/59b388499b6642fb8cc480a705417566/artifacts
+end_time: 1734065522795
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 59b388499b6642fb8cc480a705417566
+run_name: funny-kite-676
+run_uuid: 59b388499b6642fb8cc480a705417566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065518133
+status: 3
+tags: []
+user_id: jggl_

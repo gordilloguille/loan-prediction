@@ -13,7 +13,6 @@ from feature_engine.imputation import MeanMedianImputer
 from feature_engine.imputation import CategoricalImputer
 from feature_engine.encoding import OneHotEncoder
 from feature_engine.encoding import CountFrequencyEncoder
-from feature_engine.selection import DropFeatures
 
 def create_features_and_base_pipeline():
     """
@@ -59,7 +58,7 @@ def create_features_and_base_pipeline():
         # Estandarizacion de variables
         ("feature_scaling",StandardScaler())
     ])
-    
+
     # Ajustar el modelo antes de transformar los datos
     loan_prediction_model.fit(x_train)
 
@@ -71,9 +70,9 @@ def create_features_and_base_pipeline():
             config.get('general', 'target').split(',')]
 
     # Almacenado de datos para entrenar los modelos.
-    df_features_process.to_csv(os.path.join(project_path,"data","processed","features_for_model.csv"), index=False)    
-        #os.path.join(project_path,"data",'processed","features_for_model.csv'), index=False)
-    
+    df_features_process.to_csv(
+        os.path.join(project_path,"data","processed","features_for_model.csv"), index=False)
+
     x_test[config.get('general', 'target')] = y_test
     x_test.to_csv(os.path.join(project_path,"data","processed","test_dataset.csv"), index=False)
 

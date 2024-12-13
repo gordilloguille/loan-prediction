@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/80f521c357184862b06afde35acac777/artifacts
+end_time: 1734065528041
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 80f521c357184862b06afde35acac777
+run_name: magnificent-auk-132
+run_uuid: 80f521c357184862b06afde35acac777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065522870
+status: 3
+tags: []
+user_id: jggl_

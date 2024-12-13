@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/53e0da5afe8d47769f5aca02ee9c21fd/artifacts
+end_time: 1734065502361
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 53e0da5afe8d47769f5aca02ee9c21fd
+run_name: fun-bird-460
+run_uuid: 53e0da5afe8d47769f5aca02ee9c21fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065497875
+status: 3
+tags: []
+user_id: jggl_

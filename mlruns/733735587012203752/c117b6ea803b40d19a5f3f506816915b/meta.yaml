@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/c117b6ea803b40d19a5f3f506816915b/artifacts
+end_time: 1734065518069
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: c117b6ea803b40d19a5f3f506816915b
+run_name: delicate-snail-310
+run_uuid: c117b6ea803b40d19a5f3f506816915b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065512988
+status: 3
+tags: []
+user_id: jggl_

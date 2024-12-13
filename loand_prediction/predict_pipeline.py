@@ -33,9 +33,11 @@ def predict_pipeline():
         # Almacenar las predicciones en un archivo CSV con fecha y hora actual
         timestamp = pd.Timestamp.now().strftime('%Y-%m-%d-%H-%M-%S')
         predictions_df = pd.DataFrame(predictions, columns=['Predicción'])
-        predictions_df.to_csv(os.path.join(project_path,"data","predictions",f"predictions_{timestamp}.csv"), index=False)
-        
-        mlflow.log_artifact(os.path.join(project_path,"data","predictions",f"predictions_{timestamp}.csv"))        
+        predictions_df.to_csv(os.path.join(project_path,
+            "data","predictions",f"predictions_{timestamp}.csv"), index=False)
+
+        mlflow.log_artifact(os.path.join(project_path,
+            "data","predictions",f"predictions_{timestamp}.csv"))        
         mlflow.end_run()
 
 predict_pipeline()

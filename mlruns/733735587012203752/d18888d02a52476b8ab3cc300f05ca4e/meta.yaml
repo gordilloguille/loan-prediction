@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d18888d02a52476b8ab3cc300f05ca4e/artifacts
+end_time: 1734065484647
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d18888d02a52476b8ab3cc300f05ca4e
+run_name: delightful-moose-882
+run_uuid: d18888d02a52476b8ab3cc300f05ca4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065480492
+status: 3
+tags: []
+user_id: jggl_

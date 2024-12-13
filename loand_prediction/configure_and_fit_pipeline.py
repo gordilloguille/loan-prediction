@@ -11,7 +11,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.model_selection import train_test_split
 
 def configure_and_fit_pipeline():
     """Crea modelos de predicción utilizando un conjunto de datos procesados"""    
@@ -27,7 +26,7 @@ def configure_and_fit_pipeline():
     y_target = data_train[config.get('general', 'target')]
 
     x_features_test = data_test.drop([config.get('general', 'target')], axis=1)
-    y_target_test = data_test[config.get('general', 'target')]    
+    y_target_test = data_test[config.get('general', 'target')]
 
     # ### Leemos el Pipeline pre-configurado
     with open(os.path.join(project_path,"artifacts","pipeline.pkl"), 'rb') as  file:

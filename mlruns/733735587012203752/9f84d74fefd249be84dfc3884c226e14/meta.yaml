@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/9f84d74fefd249be84dfc3884c226e14/artifacts
+end_time: 1734065497824
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 9f84d74fefd249be84dfc3884c226e14
+run_name: amusing-frog-828
+run_uuid: 9f84d74fefd249be84dfc3884c226e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065493682
+status: 3
+tags: []
+user_id: jggl_

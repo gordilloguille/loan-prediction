@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d5b11f0794df48da88e02e7db7d8f1fa/artifacts
+end_time: 1734063853442
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d5b11f0794df48da88e02e7db7d8f1fa
+run_name: big-pug-106
+run_uuid: d5b11f0794df48da88e02e7db7d8f1fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734063849304
+status: 3
+tags: []
+user_id: jggl_

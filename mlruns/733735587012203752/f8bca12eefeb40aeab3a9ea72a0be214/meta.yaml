@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/f8bca12eefeb40aeab3a9ea72a0be214/artifacts
+end_time: 1734063861882
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: f8bca12eefeb40aeab3a9ea72a0be214
+run_name: angry-worm-109
+run_uuid: f8bca12eefeb40aeab3a9ea72a0be214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734063857645
+status: 3
+tags: []
+user_id: jggl_

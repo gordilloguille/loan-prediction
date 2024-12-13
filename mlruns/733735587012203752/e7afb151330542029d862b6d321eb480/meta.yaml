@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/e7afb151330542029d862b6d321eb480/artifacts
+end_time: 1734063824951
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: e7afb151330542029d862b6d321eb480
+run_name: carefree-stag-521
+run_uuid: e7afb151330542029d862b6d321eb480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734063820890
+status: 3
+tags: []
+user_id: jggl_

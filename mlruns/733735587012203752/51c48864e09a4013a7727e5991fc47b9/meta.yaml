@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/51c48864e09a4013a7727e5991fc47b9/artifacts
+end_time: 1734065512914
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 51c48864e09a4013a7727e5991fc47b9
+run_name: beautiful-mole-359
+run_uuid: 51c48864e09a4013a7727e5991fc47b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065507644
+status: 3
+tags: []
+user_id: jggl_

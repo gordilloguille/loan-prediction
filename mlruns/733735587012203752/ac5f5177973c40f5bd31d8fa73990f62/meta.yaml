@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/ac5f5177973c40f5bd31d8fa73990f62/artifacts
+end_time: 1734065493327
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: ac5f5177973c40f5bd31d8fa73990f62
+run_name: persistent-roo-84
+run_uuid: ac5f5177973c40f5bd31d8fa73990f62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065488965
+status: 3
+tags: []
+user_id: jggl_

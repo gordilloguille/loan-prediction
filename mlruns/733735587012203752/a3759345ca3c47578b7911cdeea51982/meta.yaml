@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/a3759345ca3c47578b7911cdeea51982/artifacts
+end_time: 1734065471633
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: a3759345ca3c47578b7911cdeea51982
+run_name: learned-shad-173
+run_uuid: a3759345ca3c47578b7911cdeea51982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065467341
+status: 3
+tags: []
+user_id: jggl_

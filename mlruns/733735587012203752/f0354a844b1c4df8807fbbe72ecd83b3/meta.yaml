@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/f0354a844b1c4df8807fbbe72ecd83b3/artifacts
+end_time: 1734065462800
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: f0354a844b1c4df8807fbbe72ecd83b3
+run_name: intrigued-sloth-647
+run_uuid: f0354a844b1c4df8807fbbe72ecd83b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065457270
+status: 3
+tags: []
+user_id: jggl_

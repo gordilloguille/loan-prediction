@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/d512f8c6afb74420883950c21509a461/artifacts
+end_time: 1734065488797
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: d512f8c6afb74420883950c21509a461
+run_name: skillful-croc-667
+run_uuid: d512f8c6afb74420883950c21509a461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734065484783
+status: 3
+tags: []
+user_id: jggl_
