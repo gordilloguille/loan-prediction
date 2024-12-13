@@ -71,7 +71,7 @@ def create_features_and_base_pipeline():
             config.get('general', 'target').split(',')]
 
     # Almacenado de datos para entrenar los modelos.
-    df_features_process.to_csv(os.path.join(project_path,"data","processed","features_for_model.csv"))    
+    df_features_process.to_csv(os.path.join(project_path,"data","processed","features_for_model.csv"), index=False)    
         #os.path.join(project_path,"data",'processed","features_for_model.csv'), index=False)
     
     x_test[config.get('general', 'target')] = y_test

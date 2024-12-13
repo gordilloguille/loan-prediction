@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/dee5dc6ae2fe47d1a618da99edfb35ff/artifacts
+end_time: 1734059432608
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: dee5dc6ae2fe47d1a618da99edfb35ff
+run_name: adaptable-hawk-964
+run_uuid: dee5dc6ae2fe47d1a618da99edfb35ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734059428192
+status: 3
+tags: []
+user_id: jggl_

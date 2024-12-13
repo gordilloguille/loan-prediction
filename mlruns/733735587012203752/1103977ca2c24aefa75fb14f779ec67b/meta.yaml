@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/1103977ca2c24aefa75fb14f779ec67b/artifacts
+end_time: 1734059466726
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 1103977ca2c24aefa75fb14f779ec67b
+run_name: sedate-tern-913
+run_uuid: 1103977ca2c24aefa75fb14f779ec67b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734059461880
+status: 3
+tags: []
+user_id: jggl_

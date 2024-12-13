@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/7c88cfb9759644e1a4b7996bd5399d5e/artifacts
+end_time: 1734058845374
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 7c88cfb9759644e1a4b7996bd5399d5e
+run_name: debonair-bee-996
+run_uuid: 7c88cfb9759644e1a4b7996bd5399d5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734058845184
+status: 4
+tags: []
+user_id: jggl_

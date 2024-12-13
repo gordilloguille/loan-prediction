@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
-
+from sklearn.model_selection import train_test_split
 
 def configure_and_fit_pipeline():
     """Crea modelos de predicción utilizando un conjunto de datos procesados"""    
@@ -23,22 +23,20 @@ def configure_and_fit_pipeline():
     config = configparser.ConfigParser()
     config.read(os.path.join(project_path, "pipeline.cfg"))
 
-    x_features = data_train.drop([config.get('general', 'target').split(',')], axis=1)
-    y_target = data_train[config.get('general', 'target').split(',')]
+    x_features = data_train.drop([config.get('general', 'target')], axis=1)
+    y_target = data_train[config.get('general', 'target')]
 
-    x_features_test = data_test.drop([config.get('general', 'target').split(',')], axis=1)
-    y_target_test = data_test[config.get('general', 'target').split(',')]
+    x_features_test = data_test.drop([config.get('general', 'target')], axis=1)
+    y_target_test = data_test[config.get('general', 'target')]    
 
     # ### Leemos el Pipeline pre-configurado
-
     with open(os.path.join(project_path,"artifacts","pipeline.pkl"), 'rb') as  file:
         loan_prediction_model_pipeline = pickle.load(file)
 
+    # Entrenamiento de Modelos
     x_features_test_arr = loan_prediction_model_pipeline.transform(x_features_test)
     df_features_test = pd.DataFrame(x_features_test_arr, columns=x_features_test.columns)
     df_features_test.head()
-
-    # Entrenamiento de Modelos
 
     # 1. Lista de modelos para evaluar
     models = [

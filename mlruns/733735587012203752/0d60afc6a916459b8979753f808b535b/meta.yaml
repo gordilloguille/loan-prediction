@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/0d60afc6a916459b8979753f808b535b/artifacts
+end_time: 1734059471058
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 0d60afc6a916459b8979753f808b535b
+run_name: stylish-loon-12
+run_uuid: 0d60afc6a916459b8979753f808b535b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734059466796
+status: 3
+tags: []
+user_id: jggl_

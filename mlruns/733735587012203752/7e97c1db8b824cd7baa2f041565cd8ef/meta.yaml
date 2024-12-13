@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/7e97c1db8b824cd7baa2f041565cd8ef/artifacts
+end_time: 1734059418252
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 7e97c1db8b824cd7baa2f041565cd8ef
+run_name: suave-robin-318
+run_uuid: 7e97c1db8b824cd7baa2f041565cd8ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734059413526
+status: 3
+tags: []
+user_id: jggl_

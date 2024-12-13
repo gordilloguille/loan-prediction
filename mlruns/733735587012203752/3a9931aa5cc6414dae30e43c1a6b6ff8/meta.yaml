@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/733735587012203752/3a9931aa5cc6414dae30e43c1a6b6ff8/artifacts
+end_time: 1734059447973
+entry_point_name: ''
+experiment_id: '733735587012203752'
+lifecycle_stage: active
+run_id: 3a9931aa5cc6414dae30e43c1a6b6ff8
+run_name: trusting-steed-657
+run_uuid: 3a9931aa5cc6414dae30e43c1a6b6ff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734059442916
+status: 3
+tags: []
+user_id: jggl_
